@@ -1,0 +1,1 @@
+Espacio para subir el analisis del metodo IDEAL
